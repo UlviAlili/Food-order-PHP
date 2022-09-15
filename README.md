@@ -1,5 +1,5 @@
 # Food-order-PHP
-Food Order Website with PHP
+Food Order Website using PHP prrogramming language and MySQL Database.
 
 # ⚙️ Technology Used
 1. HTML5
